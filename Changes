@@ -1,6 +1,8 @@
 Revision history for Perl extension Web-Library-UnderscoreJS
 
 {{$NEXT}}
+
+0.03  2013-08-11 21:20:51 CEST
     [Improvements]
         - Converted to Dist::Milla
 
