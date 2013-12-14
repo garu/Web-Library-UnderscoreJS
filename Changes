@@ -1,6 +1,8 @@
 Revision history for Perl extension Web-Library-UnderscoreJS
 
 {{$NEXT}}
+    [New Features]
+        - Added Underscore.js 1.5.2
 
 0.03  2013-08-11 21:20:51 CEST
     [Improvements]
