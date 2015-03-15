@@ -22,9 +22,14 @@ list - see [Web::Library](https://metacpan.org/pod/Web::Library)'s `css_link_tag
 methods for an explanation of the concept.
 
 - Version 1.4.4
-=item Version 1.5.0
-=item Version 1.5.1
-=item Version 1.5.2 (the default)
+- Version 1.5.0
+- Version 1.5.1
+- Version 1.5.2
+- Version 1.6.0
+- Version 1.7.0
+- Version 1.8.0
+- Version 1.8.1
+- Version 1.8.2 (the default)
 
         * js/underscore-min.js
 
