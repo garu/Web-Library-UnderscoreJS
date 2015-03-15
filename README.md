@@ -2,6 +2,9 @@
 
 Web::Library::UnderscoreJS - Distribution wrapper around UnderscoreJS
 
+[![Build Status](https://travis-ci.org/marcelgruenauer/Web-Library-UnderscoreJS.svg?branch=master)](https://travis-ci.org/marcelgruenauer/Web-Library-UnderscoreJS)
+[![CPAN version](https://badge.fury.io/pl/Web-Library-UnderscoreJS.svg)](http://badge.fury.io/pl/Web-Library-UnderscoreJS)
+
 # SYNOPSIS
 
     my $library_manager = Web::Library->instance;

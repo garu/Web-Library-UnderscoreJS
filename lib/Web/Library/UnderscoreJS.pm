@@ -21,6 +21,10 @@ sub version_map {
 
 Web::Library::UnderscoreJS - Distribution wrapper around UnderscoreJS
 
+=for html
+<a href="https://www.blogger.com/https://travis-ci.org/marcelgruenauer/Web-Library-UnderscoreJS"><img alt="Build Status" src="https://travis-ci.org/marcelgruenauer/Web-Library-UnderscoreJS.svg?branch=master" /></a>
+<a href="https://www.blogger.com/http://badge.fury.io/pl/Web-Library-UnderscoreJS"><img alt="CPAN version" src="https://badge.fury.io/pl/Web-Library-UnderscoreJS.svg" /></a>
+
 =head1 SYNOPSIS
 
     my $library_manager = Web::Library->instance;
