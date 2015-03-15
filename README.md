@@ -46,7 +46,7 @@ Underscore.js is licensed under the MIT license.
 The following copyright notice applies to all files provided in this
 distribution EXCEPT Underscore.js files found in `share/`.
 
-This software is copyright (c) 2013 by Marcel Gruenauer.
+This software is copyright (c) 2013-2015 by Marcel Gruenauer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
