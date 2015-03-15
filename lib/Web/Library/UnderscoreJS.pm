@@ -43,8 +43,11 @@ methods for an explanation of the concept.
 =over 4
 
 =item Version 1.4.4
+
 =item Version 1.5.0
+
 =item Version 1.5.1
+
 =item Version 1.5.2 (the default)
 
     * js/underscore-min.js
